@@ -9,13 +9,11 @@ Shadow-Full is a project designed to merge all the ShadowSecurity projects into 
 💖 Made possible thanks to these projects 💖
 
 ```
-https://github.com/
-https://www.roblox.com/create
-https://www.gitkraken.com/
+
 ```
 # Requesting a feature
 
-If you would like a feature to be added to Shadow-Game please request it by opening a issue on GitHub and explaning why it would be of use to the project.
+If you would like a feature to be added to Shadow-Full please request it by opening a issue on GitHub and explaning why it would be of use to the project.
 
 # DISCLAIMER
 

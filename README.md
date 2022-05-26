@@ -1,6 +1,6 @@
 # Shadow-Full
 
-Shadow-Full is a project designed to merge all the ShadowSecurity projects into one. Shadow-Full is built with offline access as a priority, therefore it will be preinstalled will everything ShadowSecurity has ever created, Shadow-Full is part of the larger ShadowSecuritySuite, Shadow-Full allows you to always be prepared because here at ShadowSecurity we know the importance of being prepared.
+Shadow-Full is a project designed to merge all the ShadowSecurity projects into one. Shadow-Full is built with offline access as a priority, therefore it will be preinstalled will everything ShadowSecurity has ever created, Shadow-Full is part of the larger ShadowSecuritySuite, Shadow-Full allows you to always be prepared because here at ShadowSecurity we know the importance of being prepared. As you may have guessed, this is indeed our flagship tool and combines all the projects into one.
 
 ㊙️ "The more silent you are, the more you can silence." ㊙️
 
@@ -9,7 +9,21 @@ Shadow-Full is a project designed to merge all the ShadowSecurity projects into 
 💖 Made possible thanks to these projects 💖
 
 ```
-
+https://github.com/ShadowSecurityOfficial/Shadow-Website
+https://github.com/ShadowSecurityOfficial/Shadow-Full
+https://github.com/ShadowSecurityOfficial/Shadow-Live
+https://github.com/ShadowSecurityOfficial/Shadow-Windows
+https://github.com/ShadowSecurityOfficial/Shadow-Mac
+https://github.com/ShadowSecurityOfficial/Shadow-Linux
+https://github.com/ShadowSecurityOfficial/Shadow-iOS
+https://github.com/ShadowSecurityOfficial/Shadow-Android
+https://github.com/ShadowSecurityOfficial/Shadow-Manual
+https://github.com/ShadowSecurityOfficial/Shadow-Courses
+https://github.com/ShadowSecurityOfficial/Shadow-News
+https://github.com/ShadowSecurityOfficial/Shadow-Music
+https://github.com/ShadowSecurityOfficial/Shadow-Help
+https://github.com/ShadowSecurityOfficial/Shadow-Community
+https://github.com/ShadowSecurityOfficial/Shadow-Game
 ```
 # Requesting a feature
 

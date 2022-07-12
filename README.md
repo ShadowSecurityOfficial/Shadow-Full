@@ -24,6 +24,8 @@ https://github.com/ShadowSecurityOfficial/Shadow-Music
 https://github.com/ShadowSecurityOfficial/Shadow-Help
 https://github.com/ShadowSecurityOfficial/Shadow-Community
 https://github.com/ShadowSecurityOfficial/Shadow-Game
+https://medicatusb.com/ (Adds onto Medicat using modifier script)
+https://www.ventoy.net/en/index.html (Modified Ventoy)
 ```
 # Requesting a feature
 
